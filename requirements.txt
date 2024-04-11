@@ -1,0 +1,7 @@
+joblib==1.0.1
+numpy==1.19.5
+scipy==1.5.4
+shap==0.41.0
+streamlit==1.10.0
+streamlit_shap==1.0.2
+xgboost==1.5.2
